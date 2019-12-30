@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="none">
+  <test name="Test">
+   <parameter name="chkey" value="webdriver.chrome.driver"/>
+    <classes>
+      <class name="com.com.orangehrmlive.DataDriven"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

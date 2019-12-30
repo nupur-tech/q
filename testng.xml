@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.com.orangehrmlive.Demo"/>
+      <class name="com.com.orangehrmlive.DataDriven"/>
+      <class name="com.com.orangehrmlive.VerifyTest"/>
+      <class name="com.com.orangehrmlive.AddTest"/>
+      <class name="com.com.orangehrmlive.TestNG"/>
+      <class name="com.com.orangehrmlive.Browser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
